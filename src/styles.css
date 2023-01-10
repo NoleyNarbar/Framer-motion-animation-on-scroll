@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.box {
+  font-size: 12px;
+  position: relative;
+  background-color: rgb(65, 28, 65);
+  color: white;
+  margin: 150px;
+  width: 90px;
+}
